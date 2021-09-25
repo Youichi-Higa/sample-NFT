@@ -14,24 +14,24 @@
     {
       "id": 1,
       "name": "My NFT 1",
-      "HP": 100,
+      "HP": 90,
       "ATTACK": {
-        "ROCK": 30,
+        "ROCK": 10,
         "PAPER": 10,
-        "SCISSORS": 20
+        "SCISSORS": 40
       },
-      "image": "https://drive.google.com/file/d/1maGgwOi1pFhBcz5g_sxYnbG7wFD7jHRX/view?usp=sharing"
+      "image": "https://drive.google.com/file/d/1d-UkVP09m7Qey3lS1t-ApxyFvQ8SJLNA/view?usp=sharing"
     },
     {
       "id": 2,
       "name": "My NFT 2",
-      "HP": 100,
+      "HP": 110,
       "ATTACK": {
-        "ROCK": 30,
-        "PAPER": 10,
-        "SCISSORS": 20
+        "ROCK": 20,
+        "PAPER": 50,
+        "SCISSORS": 10
       },
-      "image": "https://drive.google.com/file/d/1maGgwOi1pFhBcz5g_sxYnbG7wFD7jHRX/view?usp=sharing"
+      "image": "https://drive.google.com/file/d/11a7Ttm1Tq3Hobvxg8aHsoAlhLOy4WsCP/view?usp=sharing"
     }
   ]
 }
