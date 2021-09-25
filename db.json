@@ -1,6 +1,14 @@
 {
-  "id": 0,
-  "name": "My NFT 0",
-  "HP": 100,
-  "image": "https://drive.google.com/file/d/1maGgwOi1pFhBcz5g_sxYnbG7wFD7jHRX/view?usp=sharing"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
