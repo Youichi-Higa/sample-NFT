@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "name": "My NFT 0",
+  "HP": 100,
+  "ATTACK": {
+    "ROCK": 30,
+    "PAPER": 10,
+    "SCISSORS": 20
+  },
+  "image": "https://drive.google.com/file/d/1maGgwOi1pFhBcz5g_sxYnbG7wFD7jHRX/view?usp=sharing"
+}
