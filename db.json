@@ -2,6 +2,7 @@
   "tokens": [
     {
       "id": 0,
+      "description": "My NFT",
       "name": "My NFT 0",
       "HP": 100,
       "ATTACK": {
@@ -13,6 +14,7 @@
     },
     {
       "id": 1,
+      "description": "My NFT",
       "name": "My NFT 1",
       "HP": 90,
       "ATTACK": {
@@ -24,6 +26,7 @@
     },
     {
       "id": 2,
+      "description": "My NFT",
       "name": "My NFT 2",
       "HP": 110,
       "ATTACK": {
